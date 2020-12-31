@@ -1,0 +1,5 @@
+# Ignore all cpp files
+*.cpp
+
+# Ignore all header files
+*.hpp
