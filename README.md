@@ -1,2 +1,2 @@
 # Simple-CPP-Game
-Simple game created to gain familiarity with C++ and OOP
+Simple game created to gain familiarity using C++ and OOP
