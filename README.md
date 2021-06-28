@@ -36,4 +36,4 @@ Game created to gain familiarity using C++ and OOP
 * The game will automatically exit when you either run out of moves, win the game, or press the 'q' key
 
 ### Author
-* **William Schmidt** - [Wil's LikedIn](https://www.linkedin.com/in/william-schmidt-152431168/)
+* **William Schmidt** - [Will's LikedIn](https://www.linkedin.com/in/william-schmidt-152431168/)
