@@ -1,4 +1,4 @@
-# Eat the '$'
+# Eat the Dollar Sign
 Game created to gain familiarity using C++ and OOP
 
 ### Goal
