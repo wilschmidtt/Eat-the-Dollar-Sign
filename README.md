@@ -1,4 +1,4 @@
-# Simple-CPP-Game
+# Eat the '$'
 Game created to gain familiarity using C++ and OOP
 
 ### Goal
