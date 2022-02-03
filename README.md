@@ -6,7 +6,7 @@ Game created to gain familiarity using C++ and OOP
 
 ### Example Run
 * Gameplay appears a bit glitchy due to the application that was used for screen recording
- 
+
 ![gif](gif/cpp_game.gif)
 
 ### Prerequisites
